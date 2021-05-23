@@ -1,0 +1,3 @@
+// create a new layer 1/2 scale
+var newLayer = app.activeDocument.layers.add();
+newLayer.name = '1/2 scale';
